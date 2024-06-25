@@ -1,7 +1,7 @@
 ---
 title: Some articles are just so short that we have to make the footer stick
 description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-draft: true
+# draft: true
 date: 2016-05-19
 taxonomies:
   tags: [placeholder]
