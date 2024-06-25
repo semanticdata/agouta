@@ -1,7 +1,7 @@
 ---
 title: About
 description: "About me."
-# date: 2024-06-25
+template: "page.html"
 ---
 
 # About me

@@ -1,6 +1,7 @@
 ---
 title: Uses
 description: "Uses page."
+template: "page.html"
 ---
 
 # Uses
