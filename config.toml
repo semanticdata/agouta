@@ -3,7 +3,7 @@ title = "Agouta"
 description = "Agouta is a minimal Zola theme for building light and SEO-ready blogs."
 
 compile_sass = true
-generate_feed = true
+generate_feeds = true
 minify_html = true
 build_search_index = false
 taxonomies = [{ name = "tags", feed = true }]
