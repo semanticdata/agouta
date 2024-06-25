@@ -1,6 +1,6 @@
-base_url = "https://mabuya.vercel.app/"
-title = "Mabuya"
-description = "Mabuya is a minimal Zola theme for building light and SEO-ready blogs. Put your work front and center with Mabuya as the base of your project."
+base_url = "https://semanticdata.github.io/agouta"
+title = "Agouta"
+description = "Agouta is a minimal Zola theme for building light and SEO-ready blogs."
 
 compile_sass = true
 generate_feed = true
@@ -16,7 +16,7 @@ highlight_code = true
 author = "Miguel Pimentel"
 github = "https://github.com/semanticdata"
 email = "contact@miguelpimentel.do"
-timeformat = "%B %e, %Y"                   # e.g. June 14, 2021
+timeformat = "%B %e, %Y" # e.g. June 14, 2023
 
 [[extra.menu]]
 name = "Archive"
@@ -27,4 +27,4 @@ name = "Tags"
 url = "tags"
 
 [extra.footer]
-info = 'Powered by <a href="https://www.getzola.org" target="_blank">Zola</a> and <a href="https://github.com/semanticdata/mabuya">Mabuya</a>.'
+info = 'Powered by <a href="https://www.getzola.org" target="_blank">Zola</a> and <a href="https://github.com/semanticdata/agouta">Agouta</a>.'
