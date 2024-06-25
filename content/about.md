@@ -1,10 +1,10 @@
 ---
-title: About
+title: About me
 description: "About me."
 template: "page.html"
+# weight: 1
+date: 2022-09-01
 ---
-
-# About me
 
 <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/database-1717263783-0.webp" id="main-img" alt="illustration, sitting on desk with laptop" width="" height="" style="border:none;" />
 
