@@ -2,7 +2,9 @@
 title: Uses
 description: "Uses page."
 template: "page.html"
+weight: 1
 date: 2022-09-01
+path: uses
 ---
 
 > A non-comprehensive, non-exhaustive list of the hardware and software I use on a day-to-day basis. It's inspired by the [uses pages](https://uses.tech/) idea.

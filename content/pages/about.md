@@ -2,8 +2,9 @@
 title: About me
 description: "About me."
 template: "page.html"
-# weight: 1
+weight: 1
 date: 2022-09-01
+path: about
 ---
 
 <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/database-1717263783-0.webp" id="main-img" alt="illustration, sitting on desk with laptop" width="" height="" style="border:none;" />
@@ -18,6 +19,15 @@ date: 2022-09-01
 <a class="badge" href="https://maggieappleton.com/garden-history"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square"></a>
 <a class="badge" href="https://en.wikipedia.org/wiki/Materials_science"><img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square"></a>
 </div>
+
+<!-- ![img](https://img.shields.io/badge/Web_Development-FF3EA5?style=flat-square) 
+![img](https://img.shields.io/badge/Static%20Site%20Generators-gold?style=flat-square)
+![img](https://img.shields.io/badge/Fire%20Science-red?style=flat-square)
+![img](https://img.shields.io/badge/Game%20Development-836FFF?style=flat-square)
+![img](https://img.shields.io/badge/Personal%20Knowledge%20Management-darkgreen?style=flat-square)
+![img](https://img.shields.io/badge/Public%20Infrastructure-gray?style=flat-square)
+![img](https://img.shields.io/badge/Digital%20Gardening-rebeccapurple?style=flat-square)
+![img](https://img.shields.io/badge/Materials%20Science-A0153E?style=flat-square) -->
 
 Hello, my name is Miguel Pimentel. I am a self-taught hobby developer with too many ideas and not enough time. I was born in the Dominican Republic, and currently live in Minnesota, US.
 
