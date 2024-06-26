@@ -1,6 +1,7 @@
 base_url = "https://semanticdata.github.io/agouta"
 title = "Agouta"
 description = "Agouta is a minimal Zola theme for building light and SEO-ready blogs."
+
 compile_sass = true
 minify_html = true
 generate_feeds = true
@@ -9,8 +10,8 @@ taxonomies = [{ name = "tags", feed = true }]
 
 [markdown]
 highlight_code = true
-
 # highlight_theme = "ayu-light"
+
 [extra]
 author = "Miguel Pimentel"
 github = "https://github.com/semanticdata"
@@ -18,12 +19,12 @@ email = "contact@miguelpimentel.do"
 timeformat = "%B %e, %Y" # e.g. June 14, 2023
 
 [[extra.menu]]
-name = "Archive"
-url = "blog"
-
-[[extra.menu]]
 name = "About"
 url = "about"
+
+[[extra.menu]]
+name = "Blog"
+url = "blog"
 
 [[extra.menu]]
 name = "Tags"

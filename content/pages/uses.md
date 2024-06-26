@@ -1,9 +1,7 @@
 ---
 title: Uses
 description: "Uses page."
-template: "page.html"
 weight: 1
-date: 2022-09-01
 path: uses
 ---
 

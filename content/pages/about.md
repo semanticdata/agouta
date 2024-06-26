@@ -1,9 +1,7 @@
 ---
 title: About me
 description: "About me."
-template: "page.html"
 weight: 1
-date: 2022-09-01
 path: about
 ---
 

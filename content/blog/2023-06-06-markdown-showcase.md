@@ -1,6 +1,7 @@
 ---
 title: Markdown Showcase
 description: "This is intended as a quick reference and showcase of Markdown's synthax."
+# draft: true
 date: 2023-06-06
 taxonomies:
   tags: [placeholder, markdown, reference]
