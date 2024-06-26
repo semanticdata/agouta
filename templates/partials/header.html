@@ -2,8 +2,12 @@
 
 <nav class="nav">
   <section class="nav-container">
-    <a href="{{ config.base_url | safe }}">
-      <h2 class="nav-title">{{ config.title | default(value="Agouta")}}</h2>
+    <a href="{{ config.base_url | safe }}"
+    class="nav-title"
+    >
+      {# <h1 class="nav-title"> #}
+        {{ config.title | default(value="Agouta")}}
+      {# </h1> #}
     </a>
     <ul>
       {% if config.extra.menu %} {% for menu in config.extra.menu %}
